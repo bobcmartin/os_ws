@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: sensor_node1.PcbDoc   2/4/2019  11:59:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : sensor_node1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             44        PTH        15.09inch (383.19mm)
+T2      32mil (0.8mm)                                             Round             20        PTH        5.84inch (148.45mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.40inch (10.16mm)
+T4      35mil (0.889mm)                                           Round             16        PTH        2.30inch (58.42mm)
+T5      35mil (0.9mm)                                             Round             86        PTH        14.49inch (368.11mm)
+T6      39mil (1mm)                                               Round             2         PTH        0.10inch (2.54mm)
+T7      125mil (3.175mm)                                          Round             4         PTH        8.00inch (203.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              174
+
+Total Processing Time (hh:mm:ss) : 00:00:00

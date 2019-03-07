@@ -1,0 +1,34 @@
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q3
+Removed Parameter PackageDescription:TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max) from Part Q1
+Removed Parameter PackageDescription:TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max) from Part Q2
+Removed Parameter PackageDescription:TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max) from Part Q3
+Removed Parameter PackageReference:E3 from Part Q1
+Removed Parameter PackageReference:E3 from Part Q2
+Removed Parameter PackageReference:E3 from Part Q3
+Removed Parameter PackageVersion:1995/1996 from Part Q1
+Removed Parameter PackageVersion:1995/1996 from Part Q2
+Removed Parameter PackageVersion:1995/1996 from Part Q3
+Removed Parameter Published:8-Jun-2000 from Part Q1
+Removed Parameter Published:8-Jun-2000 from Part Q2
+Removed Parameter Published:8-Jun-2000 from Part Q3
+Removed Parameter Publisher:Altium Limited from Part Q1
+Removed Parameter Publisher:Altium Limited from Part Q2
+Removed Parameter Publisher:Altium Limited from Part Q3
+Removed Parameter SMD:No from Part MIKROBUS 1
+Added Parameter Digi-Key Part#=2N7000-G-ND to Part Q1
+Added Parameter Digi-Key Part#=2N7000-G-ND to Part Q2
+Added Parameter Digi-Key Part#=2N7000-G-ND to Part Q3
+Added Parameter Manufacturer=Microchip Technology to Part Q1
+Added Parameter Manufacturer=Microchip Technology to Part Q2
+Added Parameter Manufacturer=Microchip Technology to Part Q3
+Added Parameter PartNumber=2N7000-G to Part Q1
+Added Parameter PartNumber=2N7000-G to Part Q2
+Added Parameter PartNumber=2N7000-G to Part Q3
+Added Parameter Value=MOSFET N-CH 60V 0.2A TO92-3 to Part Q1
+Added Parameter Value=MOSFET N-CH 60V 0.2A TO92-3 to Part Q2
+Added Parameter Value=MOSFET N-CH 60V 0.2A TO92-3 to Part Q3

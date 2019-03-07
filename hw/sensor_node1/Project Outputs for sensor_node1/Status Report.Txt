@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [sensor_node1.PcbDoc]
+   Generated File[sensor_node1.TXT]
+   Generated File[sensor_node1.LDP]
+   Generated File[sensor_node1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:59:56 AM On 2/4/2019

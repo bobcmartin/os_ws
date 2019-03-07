@@ -1,0 +1,9 @@
+Index	Quantity	Part Number	Manufacturer Part Number	Description	Customer Reference	Backorder	Unit Price	Extended Price
+1	50	S7006-ND	PPTC081LFBN-RC	CONN HDR 8POS 0.1 TIN PCB		0	0.60800	$30.40
+2	50	S7005-ND	PPTC071LFBN-RC	CONN HDR 7POS 0.1 TIN PCB		0	0.55400	$27.70
+3	50	S6103-ND	PPTC051LFBN-RC	CONN HDR 5POS 0.1 TIN PCB		0	0.44300	$22.15
+							Subtotal	$80.25
+							
+							
+							
+S6100-ND	PPTC121LFBN-RC	CONN HDR 12POS 0.1 TIN PCB

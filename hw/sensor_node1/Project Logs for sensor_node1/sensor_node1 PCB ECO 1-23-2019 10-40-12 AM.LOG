@@ -1,0 +1,24 @@
+Added Component: Designator=MOD2(promini)
+Added Pin To Net: NetName=TXD Pin=MOD2-1
+Added Pin To Net: NetName=RXD Pin=MOD2-2
+Added Pin To Net: NetName=RST# Pin=MOD2-3
+Added Pin To Net: NetName=GND Pin=MOD2-4
+Added Pin To Net: NetName=D2 Pin=MOD2-5
+Added Pin To Net: NetName=D3 Pin=MOD2-6
+Added Pin To Net: NetName=D4 Pin=MOD2-7
+Added Pin To Net: NetName=D5 Pin=MOD2-8
+Added Pin To Net: NetName=D6 Pin=MOD2-9
+Added Pin To Net: NetName=D7 Pin=MOD2-10
+Added Pin To Net: NetName=D8 Pin=MOD2-11
+Added Pin To Net: NetName=TX23_5V Pin=MOD2-12
+Added Pin To Net: NetName=SPEED1 Pin=MOD2-13
+Added Pin To Net: NetName=MOSI Pin=MOD2-14
+Added Pin To Net: NetName=MISO Pin=MOD2-15
+Added Pin To Net: NetName=SCK Pin=MOD2-16
+Added Pin To Net: NetName=DIR1 Pin=MOD2-17
+Added Pin To Net: NetName=A1 Pin=MOD2-18
+Added Pin To Net: NetName=A2 Pin=MOD2-19
+Added Pin To Net: NetName=A3 Pin=MOD2-20
+Added Pin To Net: NetName=VCC_5V Pin=MOD2-21
+Added Pin To Net: NetName=RST# Pin=MOD2-22
+Added Pin To Net: NetName=GND Pin=MOD2-23

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3V3 Pin=MIKROBUS 1-7
+Added Pin To Net: NetName=3V3 Pin=MOD1-2
+Added Pin To Net: NetName=3V3 Pin=P6-1
+Added Pin To Net: NetName=VCC_5V Pin=R2-1
+Added Pin To Net: NetName=VCC_5V Pin=R4-1
+Added Pin To Net: NetName=VCC_5V Pin=R8-1
+Change Net Name : Old Net Name=3V3 New Net Name=VCC_3V3

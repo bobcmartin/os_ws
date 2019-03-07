@@ -1,0 +1,10 @@
+------------------------------------------------------------
+Single Pin Net Report for sensor_node1.SchDoc
+-- 1/20/2019
+-- 8:34:07 PM
+------------------------------------------------------------
+
+Net D2 has only one pin (Pin MOD2-5)
+Net D3 has only one pin (Pin MOD2-6)
+Net RXD has only one pin (Pin R6-1)
+Net TXD has only one pin (Pin R5-1)

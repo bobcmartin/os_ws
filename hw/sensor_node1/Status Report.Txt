@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[sensor_node1.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:34:07 PM On 1/20/2019
