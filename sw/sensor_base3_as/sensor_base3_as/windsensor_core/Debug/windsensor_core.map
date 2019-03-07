@@ -1,0 +1,1992 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              sensor_base3.o (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              sensor_base3.o (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              sensor_base3.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              sensor_base3.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              sensor_base3.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              sensor_base3.o (_ZN14HardwareSerial5beginEmh)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              sensor_base3.o (Serial)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              sensor_base3.o (delay)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                              sensor_base3.o (analogRead)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o) (pinMode)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                              sensor_base3.o (_ZN15Adafruit_BME280C1Ev)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                              sensor_base3.o (_ZN17Adafruit_VEML6075C1Ev)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (_ZN8SPIClass5beginEv)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                              sensor_base3.o (Timer1)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (_ZN7TwoWire5beginEv)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o) (twi_init)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__floatdisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o) (__fp_di2sf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o) (__fp_negdi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (pow)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o) (exp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o) (__fp_powser)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(inverse.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o) (inverse)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o) (ldexp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(log.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o) (log)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(modf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o) (modf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ldexp.o) (__fp_mpack)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__mulsi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              sensor_base3.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              sensor_base3.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              sensor_base3.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o) (__usmulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__mulshisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__muldi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o) (__muldi3_6)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__divdi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o) (__udivdi3_umoddi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o) (__udivmod64)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o) (__negdi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o) (__prologue_saves__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o) (__epilogue_restores__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__ashldi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__ashrdi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__adddi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__subdi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o) (__cmpdi2_s8)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o) (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 sensor_base3.o
+ .data          0x00000000        0x0 sensor_base3.o
+ .bss           0x00000000        0x0 sensor_base3.o
+ .text._Z18clear_sample_timerv
+                0x00000000       0x16 sensor_base3.o
+ .bss.wind_sample_ready
+                0x00000000        0x1 sensor_base3.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x90 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x16 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogReference
+                0x00000000        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text.analogWrite
+                0x00000000       0xbe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME280C2Ea
+                0x00000000        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME280C2Eaaaa
+                0x00000000       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME2807readS16Eh
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME28010readS16_LEEh
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME28021takeForcedMeasurementEv
+                0x00000000       0x66 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME2805beginEP7TwoWire
+                0x00000000        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME2805beginEh
+                0x00000000       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME2805beginEhP7TwoWire
+                0x00000000        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME28012readAltitudeEf
+                0x00000000       0x56 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .text._ZN15Adafruit_BME28019seaLevelForAltitudeEff
+                0x00000000       0x56 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text._ZN17Adafruit_VEML607515setCoefficientsEffffff
+                0x00000000       0x78 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text._ZN17Adafruit_VEML607518getIntegrationTimeEv
+                0x00000000       0x1c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text._ZN17Adafruit_VEML607514getHighDynamicEv
+                0x00000000       0x1a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text._ZN17Adafruit_VEML60757readUVAEv
+                0x00000000       0x18 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text._ZN17Adafruit_VEML60757readUVBEv
+                0x00000000       0x18 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000       0x28 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass14usingInterruptEh
+                0x00000000       0x38 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass17notUsingInterruptEh
+                0x00000000       0x36 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss.SPI       0x00000000        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne10setPwmDutyEci
+                0x00000000       0x4e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne10disablePwmEc
+                0x00000000       0x1e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne15detachInterruptEv
+                0x00000000        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne3pwmEcil
+                0x00000000       0x66 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne5startEv
+                0x00000000       0x4a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne7restartEv
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne4stopEv
+                0x00000000        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne4readEv
+                0x00000000       0xce C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .rodata.CSWTCH.18
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire5beginEh
+                0x00000000       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire5beginEi
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire3endEv
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire8setClockEm
+                0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x00000000        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x00000000        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .data          0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss           0x00000000        0x0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_disable
+                0x00000000       0x1a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_setAddress
+                0x00000000        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_setFrequency
+                0x00000000       0x28 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_reply
+                0x00000000       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o)
+ .text.avr-libc.fplib
+                0x00000000       0xa0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(pow.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x74 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o)
+ .progmem.gcc_fplib
+                0x00000000       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(exp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text.avr-libc.fplib
+                0x00000000       0x4e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .text.avr-libc.fplib
+                0x00000000       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x74 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(ldexp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(log.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(log.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(log.o)
+ .text.avr-libc.fplib
+                0x00000000       0xa0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(log.o)
+ .progmem.gcc_fplib
+                0x00000000       0x5a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(log.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(modf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(modf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(modf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x68 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(modf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text.avr-libc.fplib
+                0x00000000       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD sensor_base3.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x363c
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data._ZZ5setupE3__c
+                0x00000068       0x1a sensor_base3.o
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000082       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000082                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x00000096       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000096                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x000000aa       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000aa                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000be        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000be                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000c8        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000c8                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000d2        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000d2                port_to_mode_PGM
+                0x000000dc                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000dc                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000dc        0x2 sensor_base3.o
+ .ctors         0x000000de        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .ctors         0x000000e0        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x000000e2                __ctors_end = .
+                0x000000e2                __dtors_start = .
+ *(.dtors)
+                0x000000e2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e2        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000e2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e2        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000ee       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000ee                __do_copy_data
+ .init4         0x00000104       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000104                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000114       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000114                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000012a        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000132        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000132                __vector_22
+                0x00000132                __vector_1
+                0x00000132                __vector_12
+                0x00000132                __bad_interrupt
+                0x00000132                __vector_6
+                0x00000132                __vector_3
+                0x00000132                __vector_23
+                0x00000132                __vector_25
+                0x00000132                __vector_11
+                0x00000132                __vector_17
+                0x00000132                __vector_7
+                0x00000132                __vector_5
+                0x00000132                __vector_4
+                0x00000132                __vector_9
+                0x00000132                __vector_2
+                0x00000132                __vector_21
+                0x00000132                __vector_15
+                0x00000132                __vector_8
+                0x00000132                __vector_14
+                0x00000132                __vector_10
+                0x00000132                __vector_20
+                0x00000136                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z6T1_isrv
+                0x00000136      0x12e sensor_base3.o
+                0x00000136                _Z6T1_isrv
+ .text._Z11timer1_initv
+                0x00000264       0x22 sensor_base3.o
+                0x00000264                _Z11timer1_initv
+ .text.setup    0x00000286       0xbe sensor_base3.o
+                0x00000286                setup
+ .text._Z13sample_bme280v
+                0x00000344       0x7a sensor_base3.o
+                0x00000344                _Z13sample_bme280v
+ .text._Z9sample_uvv
+                0x000003be       0x48 sensor_base3.o
+                0x000003be                _Z9sample_uvv
+ .text._Z7tx_datav
+                0x00000406      0x13e sensor_base3.o
+                0x00000406                _Z7tx_datav
+ .text._Z15sample_wind_dirv
+                0x00000544       0xb4 sensor_base3.o
+                0x00000544                _Z15sample_wind_dirv
+ .text._Z16read_pulse_countv
+                0x000005f8        0xe sensor_base3.o
+                0x000005f8                _Z16read_pulse_countv
+ .text._Z12start_samplev
+                0x00000606       0x10 sensor_base3.o
+                0x00000606                _Z12start_samplev
+ .text._Z18read_sample_statusv
+                0x00000616        0xa sensor_base3.o
+                0x00000616                _Z18read_sample_statusv
+ .text._Z17sample_wind_speedv
+                0x00000620       0x4e sensor_base3.o
+                0x00000620                _Z17sample_wind_speedv
+ .text.loop     0x0000066e       0x20 sensor_base3.o
+                0x0000066e                loop
+ .text.startup._GLOBAL__sub_I_wind_voltage
+                0x0000068e       0x10 sensor_base3.o
+ .text.avr-libc.fplib
+                0x0000069e        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x0000069e                __subsf3
+                0x000006a0                __addsf3
+ .text.avr-libc.fplib
+                0x000006ac       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x000006ce                __addsf3x
+ .text.avr-libc.fplib
+                0x00000778        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00000778                __nesf2
+                0x00000778                __eqsf2
+                0x00000778                __cmpsf2
+                0x00000778                __ltsf2
+                0x00000778                __lesf2
+ .text.avr-libc.fplib
+                0x00000782        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00000782                __divsf3
+ .text.avr-libc.fplib
+                0x0000078a       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x000007aa                __divsf3x
+                0x000007b0                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000866       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00000866                __floatunsisf
+                0x0000086a                __floatsisf
+ .text.avr-libc.fplib
+                0x000008e0       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x000008e0                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000928        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00000928                __fp_inf
+ .text.avr-libc.fplib
+                0x00000934        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00000934                __fp_nan
+ .text.avr-libc.fplib
+                0x0000093a        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000093a                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000948        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00000948                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000956       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00000956                __fp_round
+ .text.avr-libc.fplib
+                0x00000978       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00000978                __fp_split3
+                0x00000988                __fp_splitA
+ .text.avr-libc.fplib
+                0x000009bc        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000009bc                __fp_zero
+                0x000009be                __fp_szero
+ .text.avr-libc.fplib
+                0x000009ca        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000009ca                __mulsf3
+ .text.avr-libc.fplib
+                0x000009d2       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000009f0                __mulsf3x
+                0x000009f6                __mulsf3_pse
+ .text._ZN14HardwareSerial9availableEv
+                0x00000aa4       0x18 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000aa4                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00000abc       0x1c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000abc                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000ad8       0x28 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000ad8                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000b00       0x1e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000b00                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x00000b1e       0x1c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000b1e                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000b3a       0x44 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000b3a                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00000b7e       0x9a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000b7e                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x00000c18       0x44 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c18                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000c5c       0xca C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000c5c                _ZN14HardwareSerial5beginEmh
+ .text._ZN5Print17availableForWriteEv
+                0x00000d26        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000d26                _ZN5Print17availableForWriteEv
+ .text.__vector_18
+                0x00000d2c       0x64 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000d2c                __vector_18
+ .text.__vector_19
+                0x00000d90       0x4c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000d90                __vector_19
+ .text._Z17Serial0_availablev
+                0x00000ddc       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000ddc                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00000df0       0x5a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x00000e4a        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000e4a                initVariant
+ .text.startup.main
+                0x00000e4c       0x1e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000e4c                main
+ .text._ZN5Print5writeEPKhj
+                0x00000e6a       0x54 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000e6a                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000ebe       0x2a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ebe                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000ee8       0x48 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000ee8                _ZN5Print5printEPK19__FlashStringHelper
+ .text._ZN5Print5printEPKc
+                0x00000f30        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000f30                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00000f34        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000f34                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00000f42        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000f42                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000f4a       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000f4a                _ZN5Print7printlnEPK19__FlashStringHelper
+ .text._ZN5Print7printlnEPKc
+                0x00000f6e       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000f6e                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x00000f92       0x92 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000f92                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00001024       0x1a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001024                _ZN5Print5printEmi
+ .text._ZN5Print5printEji
+                0x0000103e        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000103e                _ZN5Print5printEji
+ .text._ZN5Print10printFloatEdh
+                0x0000104a      0x1b6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000104a                _ZN5Print10printFloatEdh
+ .text._ZN5Print5printEdi
+                0x00001200        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001200                _ZN5Print5printEdi
+ .text.__vector_16
+                0x00001204       0x94 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001204                __vector_16
+ .text.micros   0x00001298       0x4a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001298                micros
+ .text.delay    0x000012e2       0x78 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000012e2                delay
+ .text.init     0x0000135a       0x76 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000135a                init
+ .text.analogRead
+                0x000013d0       0x3a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x000013d0                analogRead
+ .text.turnOffPWM
+                0x0000140a       0x52 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x0000145c       0x78 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000145c                pinMode
+ .text.digitalWrite
+                0x000014d4       0x5e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000014d4                digitalWrite
+ .text.digitalRead
+                0x00001532       0x52 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001532                digitalRead
+ .text._ZN8SPIClass16beginTransactionE11SPISettings
+                0x00001584       0x34 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001584                _ZN8SPIClass16beginTransactionE11SPISettings
+ .text._ZN8SPIClass14endTransactionEv
+                0x000015b8       0x22 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x000015b8                _ZN8SPIClass14endTransactionEv
+ .text._ZN15Adafruit_BME280C2Ev
+                0x000015da        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x000015da                _ZN15Adafruit_BME280C2Ev
+                0x000015da                _ZN15Adafruit_BME280C1Ev
+ .text._ZN15Adafruit_BME2807spixferEh
+                0x000015e8       0x8e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x000015e8                _ZN15Adafruit_BME2807spixferEh
+ .text._ZN15Adafruit_BME2806write8Ehh
+                0x00001676       0xa2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001676                _ZN15Adafruit_BME2806write8Ehh
+ .text._ZN15Adafruit_BME28011setSamplingENS_11sensor_modeENS_15sensor_samplingES1_S1_NS_13sensor_filterENS_16standby_durationE
+                0x00001718       0xd4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001718                _ZN15Adafruit_BME28011setSamplingENS_11sensor_modeENS_15sensor_samplingES1_S1_NS_13sensor_filterENS_16standby_durationE
+ .text._ZN15Adafruit_BME2805read8Eh
+                0x000017ec       0x9e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x000017ec                _ZN15Adafruit_BME2805read8Eh
+ .text._ZN15Adafruit_BME2806read16Eh
+                0x0000188a       0xd4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x0000188a                _ZN15Adafruit_BME2806read16Eh
+ .text._ZN15Adafruit_BME2809read16_LEEh
+                0x0000195e        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x0000195e                _ZN15Adafruit_BME2809read16_LEEh
+ .text._ZN15Adafruit_BME2806read24Eh
+                0x0000196a      0x156 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x0000196a                _ZN15Adafruit_BME2806read24Eh
+ .text._ZN15Adafruit_BME28016readCoefficientsEv
+                0x00001ac0      0x118 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001ac0                _ZN15Adafruit_BME28016readCoefficientsEv
+ .text._ZN15Adafruit_BME28020isReadingCalibrationEv
+                0x00001bd8        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001bd8                _ZN15Adafruit_BME28020isReadingCalibrationEv
+ .text._ZN15Adafruit_BME2804initEv
+                0x00001be2       0xb8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001be2                _ZN15Adafruit_BME2804initEv
+ .text._ZN15Adafruit_BME2805beginEv
+                0x00001c9a       0x12 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001c9a                _ZN15Adafruit_BME2805beginEv
+ .text._ZN15Adafruit_BME28015readTemperatureEv
+                0x00001cac      0x12e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001cac                _ZN15Adafruit_BME28015readTemperatureEv
+ .text._ZN15Adafruit_BME28012readPressureEv
+                0x00001dda      0x402 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x00001dda                _ZN15Adafruit_BME28012readPressureEv
+ .text._ZN15Adafruit_BME28012readHumidityEv
+                0x000021dc      0x1fc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                0x000021dc                _ZN15Adafruit_BME28012readHumidityEv
+ .text._ZN7TwoWire5writeEj
+                0x000023d8        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x000023d8                _ZN7TwoWire5writeEj
+ .text._ZN17Adafruit_VEML6075C2Ev
+                0x000023e6       0x68 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x000023e6                _ZN17Adafruit_VEML6075C2Ev
+                0x000023e6                _ZN17Adafruit_VEML6075C1Ev
+ .text._ZN17Adafruit_VEML607513writeRegisterEhj
+                0x0000244e       0x62 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x0000244e                _ZN17Adafruit_VEML607513writeRegisterEhj
+ .text._ZN17Adafruit_VEML60758shutdownEb
+                0x000024b0       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x000024b0                _ZN17Adafruit_VEML60758shutdownEb
+ .text._ZN17Adafruit_VEML607518setIntegrationTimeE24veml6075_integrationtime
+                0x000024c4       0x70 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x000024c4                _ZN17Adafruit_VEML607518setIntegrationTimeE24veml6075_integrationtime
+ .text._ZN17Adafruit_VEML607514setHighDynamicEb
+                0x00002534       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x00002534                _ZN17Adafruit_VEML607514setHighDynamicEb
+ .text._ZN17Adafruit_VEML607513setForcedModeEb
+                0x00002548       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x00002548                _ZN17Adafruit_VEML607513setForcedModeEb
+ .text._ZN17Adafruit_VEML607512readRegisterEh
+                0x0000255c       0x9c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x0000255c                _ZN17Adafruit_VEML607512readRegisterEh
+ .text._ZN17Adafruit_VEML60755beginE24veml6075_integrationtimebbP7TwoWire
+                0x000025f8       0x66 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x000025f8                _ZN17Adafruit_VEML60755beginE24veml6075_integrationtimebbP7TwoWire
+ .text._ZN17Adafruit_VEML607513getForcedModeEv
+                0x0000265e       0x1a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x0000265e                _ZN17Adafruit_VEML607513getForcedModeEv
+ .text._ZN17Adafruit_VEML607511takeReadingEv
+                0x00002678      0x16c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x00002678                _ZN17Adafruit_VEML607511takeReadingEv
+ .text._ZN17Adafruit_VEML60757readUVIEv
+                0x000027e4       0x64 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                0x000027e4                _ZN17Adafruit_VEML60757readUVIEv
+ .text._ZN8SPIClass5beginEv
+                0x00002848       0x6c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x00002848                _ZN8SPIClass5beginEv
+ .text.__vector_13
+                0x000028b4       0x4e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x000028b4                __vector_13
+ .text._ZN8TimerOne9setPeriodEl
+                0x00002902       0xd0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00002902                _ZN8TimerOne9setPeriodEl
+ .text._ZN8TimerOne10initializeEl
+                0x000029d2        0xe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x000029d2                _ZN8TimerOne10initializeEl
+ .text._ZN8TimerOne6resumeEv
+                0x000029e0       0x12 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x000029e0                _ZN8TimerOne6resumeEv
+ .text._ZN8TimerOne15attachInterruptEPFvvEl
+                0x000029f2       0x36 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x000029f2                _ZN8TimerOne15attachInterruptEPFvvEl
+ .text._ZN7TwoWire9availableEv
+                0x00002a28       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a28                _ZN7TwoWire9availableEv
+ .text._ZN7TwoWire4readEv
+                0x00002a38       0x28 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a38                _ZN7TwoWire4readEv
+ .text._ZN7TwoWire4peekEv
+                0x00002a60       0x1e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a60                _ZN7TwoWire4peekEv
+ .text._ZN7TwoWire5flushEv
+                0x00002a7e        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a7e                _ZN7TwoWire5flushEv
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x00002a80       0x54 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a80                _ZN7TwoWire16onReceiveServiceEPhi
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x00002ad4       0x18 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002ad4                _ZN7TwoWire16onRequestServiceEv
+ .text._ZN7TwoWire5writeEPKhj
+                0x00002aec       0x5a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002aec                _ZN7TwoWire5writeEPKhj
+ .text._ZN7TwoWire5writeEh
+                0x00002b46       0x5e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002b46                _ZN7TwoWire5writeEh
+ .text._ZN7TwoWireC2Ev
+                0x00002ba4       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002ba4                _ZN7TwoWireC1Ev
+                0x00002ba4                _ZN7TwoWireC2Ev
+ .text._ZN7TwoWire5beginEv
+                0x00002bc4       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002bc4                _ZN7TwoWire5beginEv
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x00002be8       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002be8                _ZN7TwoWire17beginTransmissionEh
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00002bfc        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002bfc                _ZN7TwoWire17beginTransmissionEi
+ .text._ZN7TwoWire15endTransmissionEh
+                0x00002c00       0x26 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002c00                _ZN7TwoWire15endTransmissionEh
+ .text._ZN7TwoWire11requestFromEhhmhh
+                0x00002c26       0xa8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002c26                _ZN7TwoWire11requestFromEhhmhh
+ .text._ZN7TwoWire11requestFromEhhh
+                0x00002cce       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002cce                _ZN7TwoWire11requestFromEhhh
+ .text._ZN7TwoWire11requestFromEhh
+                0x00002cee        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002cee                _ZN7TwoWire11requestFromEhh
+ .text._ZN7TwoWire11requestFromEii
+                0x00002cf4        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002cf4                _ZN7TwoWire11requestFromEii
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00002cfa        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002cfa                _ZN7TwoWire15endTransmissionEv
+ .text.startup._GLOBAL__sub_I__ZN7TwoWire8rxBufferE
+                0x00002d00        0x8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text.__empty  0x00002d08        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00002d08                yield
+ .text.twi_init
+                0x00002d0a       0x3c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d0a                twi_init
+ .text.twi_readFrom
+                0x00002d46       0x90 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d46                twi_readFrom
+ .text.twi_writeTo
+                0x00002dd6       0xac C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002dd6                twi_writeTo
+ .text.twi_transmit
+                0x00002e82       0x50 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002e82                twi_transmit
+ .text.twi_attachSlaveRxEvent
+                0x00002ed2        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002ed2                twi_attachSlaveRxEvent
+ .text.twi_attachSlaveTxEvent
+                0x00002edc        0xa C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002edc                twi_attachSlaveTxEvent
+ .text.twi_stop
+                0x00002ee6       0x14 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002ee6                twi_stop
+ .text.twi_releaseBus
+                0x00002efa        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002efa                twi_releaseBus
+ .text.__vector_24
+                0x00002f06      0x25a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002f06                __vector_24
+ .text.avr-libc.fplib
+                0x00003160       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00003160                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000031be        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatdisf.o)
+                0x000031be                __floatdisf
+ .text.avr-libc.fplib
+                0x000031ca       0x7c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatundisf.o)
+                0x000031ca                __floatundisf
+                0x000031cc                __fp_di2sf
+ .text.avr-libc.fplib
+                0x00003246       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_negdi.o)
+                0x00003246                __fp_negdi
+ .text.avr-libc.fplib
+                0x00003266        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00003266                __gesf2
+                0x00003266                __gtsf2
+ .text.avr-libc.fplib
+                0x00003270        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                0x00003270                __unordsf2
+ .text.libgcc.mul
+                0x0000327a       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x0000327a                __mulsi3
+ .text.libgcc.div
+                0x0000329a       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000329a                __udivmodsi4
+ .text.libgcc.mul
+                0x000032de       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x000032de                __muluhisi3
+ .text.libgcc.mul
+                0x000032f4       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulshisi3.o)
+                0x000032f4                __mulshisi3
+                0x000032fa                __mulohisi3
+ .text.libgcc.mul
+                0x00003304       0xa0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3.o)
+                0x00003304                __muldi3
+ .text.libgcc.mul
+                0x000033a4       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muldi3_6.o)
+                0x000033a4                __muldi3_6
+ .text.libgcc.div
+                0x000033b6       0x62 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divdi3.o)
+                0x000033b6                __moddi3
+                0x000033ba                __divdi3
+                0x000033bc                __divdi3_moddi3
+ .text.libgcc.div
+                0x00003418       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivdi3.o)
+                0x00003418                __umoddi3
+                0x0000341c                __udivdi3
+                0x0000341e                __udivdi3_umoddi3
+ .text.libgcc.div
+                0x00003434       0xa2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmod64.o)
+                0x00003434                __udivmod64
+ .text.libgcc   0x000034d6       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negdi2.o)
+                0x000034d6                __negdi2
+ .text.libgcc.prologue
+                0x000034f6       0x38 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x000034f6                __prologue_saves__
+ .text.libgcc.prologue
+                0x0000352e       0x36 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x0000352e                __epilogue_restores__
+ .text.libgcc.builtins
+                0x00003564       0x32 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashldi3.o)
+                0x00003564                __ashldi3
+ .text.libgcc.builtins
+                0x00003596       0x3c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ashrdi3.o)
+                0x00003596                __ashrdi3
+                0x0000359a                __lshrdi3
+ .text.libgcc   0x000035d2       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_adddi3.o)
+                0x000035d2                __adddi3
+ .text.libgcc   0x000035e4       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_subdi3.o)
+                0x000035e4                __subdi3
+ .text.libgcc   0x000035f6       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_cmpdi2_s8.o)
+                0x000035f6                __cmpdi2_s8
+ .text.libgcc   0x0000360e        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000360e                __tablejump2__
+ .text.libgcc.mul
+                0x0000361a       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x0000361a                __umulhisi3
+                0x00003638                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003638        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00003638                _exit
+                0x00003638                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003638        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000363c                _etext = .
+
+.data           0x00800100      0x154 load address 0x0000363c
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.speed_state
+                0x00800100        0x1 sensor_base3.o
+                0x00800100                speed_state
+ .data.wind_degrees
+                0x00800101       0x40 sensor_base3.o
+                0x00800101                wind_degrees
+ .data.wind_voltage
+                0x00800141       0x40 sensor_base3.o
+                0x00800141                wind_voltage
+ .data.analog_reference
+                0x00800181        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                0x00800181                analog_reference
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800182       0x9f sensor_base3.o
+ .rodata._ZTV14HardwareSerial
+                0x00800221       0x12 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00800221                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x00800233        0xf C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV7TwoWire
+                0x00800242       0x12 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800242                _ZTV7TwoWire
+ *(.gnu.linkonce.r*)
+                0x00800254                . = ALIGN (0x2)
+                0x00800254                _edata = .
+                0x00800254                PROVIDE (__data_end, .)
+
+.bss            0x00800254      0x1f6
+                0x00800254                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZZ7tx_datavE10scan_count
+                0x00800254        0x4 sensor_base3.o
+ .bss.sample_timer
+                0x00800258        0x4 sensor_base3.o
+                0x00800258                sample_timer
+ .bss.debounce_timer
+                0x0080025c        0x4 sensor_base3.o
+                0x0080025c                debounce_timer
+ .bss.bme280    0x00800260       0x33 sensor_base3.o
+                0x00800260                bme280
+ .bss.uv        0x00800293       0x26 sensor_base3.o
+                0x00800293                uv
+ .bss.psensor_data
+                0x008002b9        0x2 sensor_base3.o
+                0x008002b9                psensor_data
+ .bss.sensor_data
+                0x008002bb       0x18 sensor_base3.o
+                0x008002bb                sensor_data
+ .bss.pulse_count
+                0x008002d3        0x2 sensor_base3.o
+                0x008002d3                pulse_count
+ .bss.new_wind_sample
+                0x008002d5        0x1 sensor_base3.o
+                0x008002d5                new_wind_sample
+ .bss.Serial    0x008002d6       0x9d C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x008002d6                Serial
+ .bss.timer0_fract
+                0x00800373        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x00800374        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800374                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800378        0x4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800378                timer0_overflow_count
+ .bss._ZN8SPIClass13interruptSaveE
+                0x0080037c        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080037c                _ZN8SPIClass13interruptSaveE
+ .bss._ZN8SPIClass13interruptMaskE
+                0x0080037d        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080037d                _ZN8SPIClass13interruptMaskE
+ .bss._ZN8SPIClass13interruptModeE
+                0x0080037e        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080037e                _ZN8SPIClass13interruptModeE
+ .bss._ZN8SPIClass11initializedE
+                0x0080037f        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080037f                _ZN8SPIClass11initializedE
+ .bss.Timer1    0x00800380        0x6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00800380                Timer1
+ .bss.Wire      0x00800386        0xc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800386                Wire
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x00800392        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800392                _ZN7TwoWire14user_onReceiveE
+ .bss._ZN7TwoWire14user_onRequestE
+                0x00800394        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800394                _ZN7TwoWire14user_onRequestE
+ .bss._ZN7TwoWire12transmittingE
+                0x00800396        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800396                _ZN7TwoWire12transmittingE
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x00800397        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800397                _ZN7TwoWire14txBufferLengthE
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x00800398        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800398                _ZN7TwoWire13txBufferIndexE
+ .bss._ZN7TwoWire8txBufferE
+                0x00800399       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800399                _ZN7TwoWire8txBufferE
+ .bss._ZN7TwoWire9txAddressE
+                0x008003b9        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x008003b9                _ZN7TwoWire9txAddressE
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x008003ba        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x008003ba                _ZN7TwoWire14rxBufferLengthE
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x008003bb        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x008003bb                _ZN7TwoWire13rxBufferIndexE
+ .bss._ZN7TwoWire8rxBufferE
+                0x008003bc       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x008003bc                _ZN7TwoWire8rxBufferE
+ .bss.twi_error
+                0x008003dc        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBufferIndex
+                0x008003dd        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBuffer
+                0x008003de       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferLength
+                0x008003fe        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferIndex
+                0x008003ff        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBuffer
+                0x00800400       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferLength
+                0x00800420        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferIndex
+                0x00800421        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBuffer
+                0x00800422       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveReceive
+                0x00800442        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveTransmit
+                0x00800444        0x2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_inRepStart
+                0x00800446        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_sendStop
+                0x00800447        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_slarw
+                0x00800448        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_state
+                0x00800449        0x1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ *(COMMON)
+                0x0080044a                PROVIDE (__bss_end, .)
+                0x0000363c                __data_load_start = LOADADDR (.data)
+                0x00003790                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080044a        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x0080044a                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 sensor_base3.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6f8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x88 sensor_base3.o
+ .debug_aranges
+                0x00000088       0x68 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x000000f0       0x48 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x00000138       0x30 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000168      0x100 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000268       0x48 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x000002b0       0x30 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_aranges
+                0x000002e0       0x38 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x00000318       0xf0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_aranges
+                0x00000408       0xa0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_aranges
+                0x000004a8       0x38 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_aranges
+                0x000004e0       0x80 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_aranges
+                0x00000560       0xf8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_aranges
+                0x00000658       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x00000678       0x80 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xfacc
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x1867 sensor_base3.o
+ .debug_info    0x00001e5b     0x1f64 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00003dbf     0x1b16 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x000058d5      0x237 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00005b0c     0x28ff C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0000840b      0x2cb C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000086d6      0x26d C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_info    0x00008943      0x5fe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00008f41     0x223f C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_info    0x0000b180      0xe8a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_info    0x0000c00a      0x66b C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_info    0x0000c675      0x665 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_info    0x0000ccda     0x27b0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_info    0x0000f48a       0x3e C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x0000f4c8      0x604 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_abbrev   0x00000000     0x32d2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x51f sensor_base3.o
+ .debug_abbrev  0x00000ac1      0x4b7 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000f78      0x3ce C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001346      0x12d C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001473      0x47a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000018ed      0x146 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00001a33      0x16b C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_abbrev  0x00001b9e      0x15b C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00001cf9      0x5db C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_abbrev  0x000022d4      0x3b9 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_abbrev  0x0000268d      0x283 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_abbrev  0x00002910      0x1b7 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_abbrev  0x00002ac7      0x581 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_abbrev  0x00003048       0x2a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00003072      0x260 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_line     0x00000000     0x3fc0
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x634 sensor_base3.o
+ .debug_line    0x00000767      0x4d9 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000c40      0x2a1 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00000ee1      0x17a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x0000105b      0x69a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x000016f5      0x2ae C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000019a3      0x224 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_line    0x00001bc7      0x267 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00001e2e      0xa59 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_line    0x00002887      0x565 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_line    0x00002dec      0x2f8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_line    0x000030e4      0x3a5 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_line    0x00003489      0x5ec C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_line    0x00003a75       0x41 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00003ab6      0x50a C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_frame    0x00000000     0x14fc
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x14c sensor_base3.o
+ .debug_frame   0x0000014c      0x110 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x0000025c       0xe0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x0000033c       0x54 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000390      0x3ac C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x0000073c       0xc4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x00000800       0x54 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_frame   0x00000854       0x7c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x000008d0      0x3e4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_frame   0x00000cb4      0x280 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_frame   0x00000f34       0x5c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_frame   0x00000f90      0x194 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_frame   0x00001124      0x280 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_frame   0x000013a4       0x24 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x000013c8      0x134 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_str      0x00000000     0x3fae
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x1405 sensor_base3.o
+                               0x1565 (size before relaxing)
+ .debug_str     0x0000160d     0x1310 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x1618 (size before relaxing)
+ .debug_str     0x0000291d       0x86 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x140b (size before relaxing)
+ .debug_str     0x000029a3       0x37 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2b7 (size before relaxing)
+ .debug_str     0x000029da      0x364 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1245 (size before relaxing)
+ .debug_str     0x00002d3e      0x145 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x24d (size before relaxing)
+ .debug_str     0x00002e83       0x7c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+                                0x251 (size before relaxing)
+ .debug_str     0x00002eff       0xa3 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2b2 (size before relaxing)
+ .debug_str     0x00002fa2      0x7c0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+                               0x1293 (size before relaxing)
+ .debug_str     0x00003762      0x138 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+                                0x8ee (size before relaxing)
+ .debug_str     0x0000389a       0xa4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                                0x6b0 (size before relaxing)
+ .debug_str     0x0000393e       0x66 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                                0x409 (size before relaxing)
+ .debug_str     0x000039a4      0x49d C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                               0x18c4 (size before relaxing)
+ .debug_str     0x00003e41       0x1c C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x142 (size before relaxing)
+ .debug_str     0x00003e5d      0x151 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                                0x3cd (size before relaxing)
+
+.debug_loc      0x00000000     0x6b19
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x1e8 sensor_base3.o
+ .debug_loc     0x000001e8      0x4dc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x000006c4      0x1b0 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x00000874     0x1c87 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000024fb      0x28d C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00002788       0xfe C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_loc     0x00002886      0x5fc C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00002e82     0x18af C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_loc     0x00004731      0xb56 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_loc     0x00005287      0x1e4 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_loc     0x0000546b      0x6e2 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_loc     0x00005b4d      0xbe6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_loc     0x00006733      0x3e6 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x6b0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x78 sensor_base3.o
+ .debug_ranges  0x00000078       0x58 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x000000d0       0x38 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000108       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000128      0x120 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000248       0x38 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000280       0x20 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_analog.o)
+ .debug_ranges  0x000002a0       0x28 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000002c8      0x158 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_BME280.o)
+ .debug_ranges  0x00000420       0x90 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Adafruit_VEML6075.o)
+ .debug_ranges  0x000004b0       0x28 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_ranges  0x000004d8       0x70 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_ranges  0x00000548       0xe8 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_ranges  0x00000630       0x10 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000640       0x70 C:\Users\c40769\events\IoTWeek2019\sw\sensor_base3_as\sensor_base3_as\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(windsensor_core.elf elf32-avr)
+LOAD linker stubs
