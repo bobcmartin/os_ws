@@ -4,7 +4,18 @@
 	Bob Martin / Microchip Technology 
 	Feb 2019
 	
-	Credit / Kudos / Acknowledgment Section
+	Software license / acknowledgementsection
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		Adafruit
 	 	
 		 This is a library for the BME280 humidity, temperature & pressure sensor
 		 Designed specifically to work with the Adafruit BME280 Breakout
@@ -17,9 +28,20 @@
 		 Written by Limor Fried & Kevin Townsend for Adafruit Industries.
 		 BSD license, all text above must be included in any redistribution
 		 
-		 
-		 
+		 Sparkfun	
+		 Weather Station using the Electric Imp
+		By: Nathan Seidle
+		SparkFun Electronics
+		Date: October 4th, 2013
+		License: This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
 
+		Much of this is based on Mike Grusin's USB Weather Board code.
+
+		Others
+		
+		Arduino Weather Station (WiFi)
+		Sparkfun Wifi shield on an Arduino Uno: Weather station that sends data to wunderground.com
+		By Dan Fein
 
 */
 
