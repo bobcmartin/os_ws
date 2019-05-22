@@ -8,7 +8,7 @@ for the Open Source Weather Station Project
 
 Directory Structure
 
-/hw										Top level hardare
+/hw										Top level hardware
 /hw/ad									Altium Design database for Sensor Node V1 board
 /hw/datasheets							Datasheets for Sensors and boards
 
